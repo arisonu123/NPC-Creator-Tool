@@ -1,0 +1,14 @@
+c:\users\arisonu\documents\visual studio 2015\Projects\TaylorFinal\TaylorFinal\bin\Debug\TaylorFinal.exe.config
+c:\users\arisonu\documents\visual studio 2015\Projects\TaylorFinal\TaylorFinal\obj\Debug\TaylorFinal.csprojResolveAssemblyReference.cache
+c:\users\arisonu\documents\visual studio 2015\Projects\TaylorFinal\TaylorFinal\obj\Debug\App.g.cs
+c:\users\arisonu\documents\visual studio 2015\Projects\TaylorFinal\TaylorFinal\obj\Debug\TaylorFinal_MarkupCompile.cache
+c:\users\arisonu\documents\visual studio 2015\Projects\TaylorFinal\TaylorFinal\bin\Debug\TaylorFinal.exe
+c:\users\arisonu\documents\visual studio 2015\Projects\TaylorFinal\TaylorFinal\bin\Debug\TaylorFinal.pdb
+c:\users\arisonu\documents\visual studio 2015\Projects\TaylorFinal\TaylorFinal\obj\Debug\MainWindow.g.cs
+c:\users\arisonu\documents\visual studio 2015\Projects\TaylorFinal\TaylorFinal\obj\Debug\TaylorFinal_MarkupCompile.lref
+c:\users\arisonu\documents\visual studio 2015\Projects\TaylorFinal\TaylorFinal\obj\Debug\MainWindow.baml
+c:\users\arisonu\documents\visual studio 2015\Projects\TaylorFinal\TaylorFinal\obj\Debug\TaylorFinal.g.resources
+c:\users\arisonu\documents\visual studio 2015\Projects\TaylorFinal\TaylorFinal\obj\Debug\TaylorFinal.Properties.Resources.resources
+c:\users\arisonu\documents\visual studio 2015\Projects\TaylorFinal\TaylorFinal\obj\Debug\TaylorFinal.csproj.GenerateResource.Cache
+c:\users\arisonu\documents\visual studio 2015\Projects\TaylorFinal\TaylorFinal\obj\Debug\TaylorFinal.exe
+c:\users\arisonu\documents\visual studio 2015\Projects\TaylorFinal\TaylorFinal\obj\Debug\TaylorFinal.pdb

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Data>
+  <Sections>
+    <Section ID="NPCs"/>
+    <Section ID="Classes" />
+    <Section ID="Abilities" />
+  </Sections>
+  <Abilities>
+    <Ability ID="ABI_01">
+      <DisplayName>Fireball</DisplayName>
+      <FlavorText>Goodness gracious, great balls of fire.</FlavorText>
+      <ScriptID>Fireball.py</ScriptID>
+    </Ability>
+    <Ability ID="ABI_03">
+      <DisplayName>Deadly Strike</DisplayName>
+      <FlavorText>Strike the target in the heart, twice.</FlavorText>
+      <ScriptID>DeadStrike.py</ScriptID>
+    </Ability>
+    <Ability ID="ABI_02">
+      <DisplayName>Gut Punch</DisplayName>
+      <FlavorText>Punch your target in the gut.</FlavorText>
+      <ScriptID>GutPunch.py</ScriptID>
+    </Ability>
+  </Abilities>
+  <Classes>
+    <Class ID="Fighter">
+      <DisplayName>Fighter</DisplayName>
+      <Abilities>
+        <Ability>ABI_02</Ability>
+      </Abilities>
+    </Class>
+    <Class ID="Wizard">
+      <DisplayName>Wizard</DisplayName>
+      <Abilities>
+        <Ability>ABI_01</Ability>
+      </Abilities>
+    </Class>
+    <Class ID="Monk">
+      <DisplayName>Monk</DisplayName>
+      <Abilities>
+        <Ability>ABI_02</Ability>
+      </Abilities>
+    </Class>
+    <Class ID="BattleMage">
+      <DisplayName>BattleMage</DisplayName>
+      <Abilities>
+        <Ability>ABI_01</Ability>
+        <Ability>ABI_03</Ability>
+      </Abilities>
+    </Class>
+  </Classes>
+  <NPCs>
+    <NPC ID="NPC_01">
+      <DisplayName>Fisher Bob</DisplayName>
+      <Race>Human</Race>
+      <ClassID>CLS_01</ClassID>
+      <Level>20</Level>
+      <isAttackable>false</isAttackable>
+      <AppearanceID>APP_23</AppearanceID>
+    </NPC>
+    <NPC ID="NPC_02">
+      <DisplayName>Captain Adventure</DisplayName>
+      <Race>Yeti</Race>
+      <ClassID>CLS_03</ClassID>
+      <Level>99</Level>
+      <isAttackable>false</isAttackable>
+      <AppearanceID>APP_910</AppearanceID>
+      <Stats>
+        <Stat ID="ATK">
+          <Value>200</Value>
+        </Stat>
+        <Stat ID="DEF">
+          <Value>500</Value>
+        </Stat>
+      </Stats>
+    </NPC>
+  </NPCs>
+</Data>
